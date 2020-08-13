@@ -5,4 +5,7 @@ permalink: /about/
 published: true
 ---
 
-I am an IT professional with 15 years of experience in technical support, service delivery management, and cybersecurity administration for the same employer. Always yearning for more knowledge to possibly make a transition to a SOC Analyst position.
+Married.
+Father. 
+15 years in IT. (Service Desk, service delivery management, Endpoint Security Engineer)
+Always yearning for more knowledge to possibly make a transition to a SOC Analyst position.
