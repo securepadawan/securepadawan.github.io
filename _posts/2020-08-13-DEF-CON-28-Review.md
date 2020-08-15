@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-![DEF CON](securepadawan.github.io/blob/gh-pages/_images/defcon_safemode.jpg)
+![DEF CON](/_images/defcon_safemode.jpg)
 
 
 # DEF CON 28 aka DEF CON IS CANCELLED aka DEF CON SAFE MODE
