@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![]({{site.baseurl}}/_images/defcon_safemode.jpg)
 
