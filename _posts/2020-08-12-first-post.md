@@ -9,4 +9,4 @@ I attended DEF CON 28 Safe Mode this past week, and the thing I kept hearing was
 I also have some other blog posts planned: Two Hacker Boxes reviews, DEF CON workshop reviews, and more.
 I hope you enjoy the content and hopefully can network with you guys on both Twitter and LinkedIn.  
   
-- SecurePadawan
+SecurePadawan
