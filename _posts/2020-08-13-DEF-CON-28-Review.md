@@ -1,10 +1,10 @@
 ---
 published: true
 ---
-![DEF CON](/_images/defcon_safemode.jpg)
+![DEF CON](/assets/defcon_safemode.jpg)
 
 
-# DEF CON 28 aka DEF CON IS CANCELLED aka DEF CON SAFE MODE
+# DEF CON 28 aka DEF CON IS CANCELLED aka DEF CON SAFE MODE.
 
 A little less than one week ago, DEF CON 28 ended. This was my first DEF CON I have to attend, and due to COVID-19, it was the first virtual DEF CON. For me, it was a fascinating few days meeting people as well as attending workshops and sessions. There was a total of 32 villages this year with new villages (Payment Village, Payments Village Workshop, and Password Village). Outside of focusing on the Red, Blue, and Password Village, I wanted to attend my first CTF.  
 
