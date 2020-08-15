@@ -7,7 +7,7 @@ A little less than one week ago, DEF CON 28 ended. This was my first DEF CON I h
 
 [OpenSOC](https://opensoc.io/) provided training on Thursday, August 6th, for their open-source tools that would be used during the CTF. They included Graylog, Kibana, Moloch, Osquery, Velociraptor, Zeek, Suricata, and Thinkst Canary. I enjoyed these sessions as I am looking to move into a SOC position. During the CTF on Friday, there were quite a few issues with the server getting overloaded. They even had to close it down early Friday evening and opening it back up on Saturday. Here is a good write up on the OpenSOC CTF: [https://pberba.github.io/security/2020/08/11/defcon-28-blueteam-opensoc-ctf/](https://pberba.github.io/security/2020/08/11/defcon-28-blueteam-opensoc-ctf/)  
 
-As far as the workshops, I had three favorite workshops:
+As far as the workshops, I had three favorites:
 1.	[Omar Santos](https://twitter.com/santosomar) – N00b Intro to Building Your Own Lab
 2.	[Ben Hughes](https://twitter.com/CyberPraesidium), [Fred Mastrippolito](https://twitter.com/politoinc) – Deploying PiHole: More than an Ad Blocker
 3.	[Sam Bowne](https://twitter.com/sambowne), [Elizabeth Biddlecome](https://www.linkedin.com/in/ebiddlecome/), [Kaitlyn Handelman](https://twitter.com/kaitlynguru), [Irvin Lemus](https://twitter.com/InfoSecIrvin) – Incident Response and the ATT&CK Matrix  
